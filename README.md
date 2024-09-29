@@ -57,12 +57,6 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=nayeem1872&theme=react&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 
-
-
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=nayeem1872&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
 ---
 [![](https://visitcount.itsvg.in/api?id=nayeem1872&icon=6&color=1)](https://visitcount.itsvg.in)
 
